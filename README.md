@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### 💬 Ask me about ASP.Net
+#### 📫 How to reach me:mayadaa.ahmed2810@gmail.com
+
 
 <!--
 **Mayada-Ahmed/Mayada-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ASP.Net
-- 📫 How to reach me:mayadaa.ahmed2810@gmail.com
+### 💬 Ask me about ASP.Net
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
