@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋, I'm Mayada Ahmed</h1>
 
-- 🔭 I’m .net Developer
+- 🔭 I’m .Net Developer
 - 👨‍💻 All of my projects are available **[Here](https://github.com/Mayada-Ahmed?tab=repositories)**
 - 💬 Ask me about **ASP.Net**
 - 📫 How to reach me **mayadaa.ahmed2810@gmail.com**
